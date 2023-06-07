@@ -2,7 +2,7 @@
 
 <img src="https://github.com/6tronl/artus/blob/main/docs/logo_artus.png?raw=True" height="130px">
 
-# Tutorials to handle artus, GeoAi python package
+# Tutorials to handle artus, a GeoAi python package
 
 </div>
 
