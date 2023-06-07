@@ -1,3 +1,0 @@
-species_classes: ['tenuis', 'histrix', 'rus', 'hemprichi', 'Lutea', 'sp1', 'lobata', 'cylibdrica', 'digitifera', 'retiformis', 'divaricata', 'anae', 'hyacinthus', 'humilis', 'gemmacea', 'fungites', 'pectinata', 'daedalea', 'speciosa', 'muricata', 'fascicularis', 'exaesa', 'halicora', 'astreata', 'complanata', 'cylindrica', 'palifera', 'heliopora', 'Muricata 1', 'lutea', 'sp']
-genus_classes: ['Acropora','Seriatopora','Porites','Echinopora','Lobophyllia','Goniastrea','Fungia','Platygyra','Dipsastrea','Montipora','Galaxea','Favites','Diploastrea', 'Hydophora']
-lht_classes: ['com', 'wee', 'na', 'sto', 'gen']

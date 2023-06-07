@@ -2,7 +2,7 @@
 
 <img src="https://github.com/6tronl/artus/blob/main/docs/logo_artus.png?raw=True" height="130px">
 
-# Predict geospatial data with artificial intelligence
+# Tutorials to handle artus, GeoAi python package
 
 </div>
 
@@ -11,12 +11,9 @@
 Artus is a python package to automatically produce maps thanks to deep learning models. With artus, you can train deep learning learning models (neural network)
 on raster images annotated with vector files. You can then use the trained model to predict spatial occurrences on new unlabeled rasters. Predictions can be exported to a GeoJson format and uploaded in your favourite GIS software.
 
-To handle large raster file, artus provides a way to tile raster into smaller tiles according to different cutting grids.
-
-Artus has already been implemented in three use cases using 3 differents inputs data : satellite images to detect gillnets vessels, orthomosaics to detect corals
-species and under water images marked with a georeferenced point to detect marine species. 
-
 Artus's documentation is available on [Read the docs](https://artus.readthedocs.io/en/latest/)
+
+Here, we provide tutorials to get started with artus. Depending on the data you have and what you want to achieve, you may want to follow the full use cases or the step by step tutorials.
 
 This project is being developed as part of the G2OI project, cofinanced by the European union, the Reunion region, and the French Republic.
 <img src="https://github.com/6tronl/artus/blob/main/docs/logos_partenaires.png?raw=True" height="40px">
