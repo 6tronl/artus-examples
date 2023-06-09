@@ -2,11 +2,12 @@
 
 <img src="https://github.com/6tronl/artus/blob/main/docs/logo_artus.png?raw=True" height="130px">
 
-# Tutorials to handle artus, a GeoAi python package
-
-</div>
+# Tutorials to handle artus, a GeoAI python package
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7984605.svg)](https://doi.org/10.5281/zenodo.7984605)
+</div>
+
+
 
 Artus is a python package to automatically produce maps thanks to deep learning models. With artus, you can train deep learning learning models (neural network)
 on raster images annotated with vector files. You can then use the trained model to predict spatial occurrences on new unlabeled rasters. Predictions can be exported to a GeoJson format and uploaded in your favourite GIS software.
@@ -24,8 +25,10 @@ If you want to get ready with artus, you should first install it. To help you, y
 In the case you have annotated data, whether it is georeferenced images or raster images, you may want to train a deep learning model that is able to detect specifically the classes you annotated manually. According to the type of data you have (raster images, georeferenced images) and the deep learning tasks you want to achieve, the path you will take may differ. 
 
 ### USE CASE 1 : You have tif files annotated with vector files (shapefile for example)
+In full_use_cases/rasters_images.ipynb, you will find a complete notebook to train a deep learning model on your data type and use the AI model to predict new geospatial data.
 
 ### USE CASE 2 : You have images with a GPS associated for all of them and you have a COCO annotation file
+In full_use_cases/georeferenced_images.ipynb, you will find a complete notebook to train a deep learning model on your data type and use the AI model to predict new geospatial data.
 
 
 
